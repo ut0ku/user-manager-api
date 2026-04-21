@@ -1,6 +1,6 @@
 Практическое занятие 20
 
-Репозиторий с реализацией на MongoDB -> [MongoDB]()
+Репозиторий с реализацией на MongoDB -> [MongoDB](https://github.com/ut0ku/user-manager-api-mongodb)
 
 Создано API для управления списком пользователей с базой данных PostgreSQL.
 Сущность пользователь включает в себя поля: ID (integer), first_name (Varchar), last_name (Varchar), age (integer), created_at (Timestamp), updated_at (timestamp).
